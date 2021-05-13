@@ -27,8 +27,8 @@ stages:
 
 env: 
   global:
-  - THEIA_GITHUB_REPO=eclipse-theia/theia
-  - THEIA_BRANCH=master
+  - THEIA_GITHUB_REPO=Rohan-Shinde-98/test-npm
+  - THEIA_BRANCH=travis
   - TAG=next
   - CDN_PREFIX=https://static.developers.redhat.com/che/theia_artifacts/
   - MONACO_CDN_PREFIX=https://cdn.jsdelivr.net/npm/
